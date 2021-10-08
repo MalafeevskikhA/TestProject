@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Application TestProject</Name>
+    <Text>TestProject</Text>
+    <Assembly>"C:\Users\a.malafeevskih\source\repos\MyNewProject\MyNewProject\bin\Debug\MyNewProject.dll"</Assembly>
+    <FullClassName>MyNewProject.App</FullClassName>
+    <ClientId>6ea51125-cb4c-466c-88d3-5338bcb969b1</ClientId>
+    <VendorId>MA</VendorId>
+    <VendorDescription>Malafeevskikh Alina a.malafeevskih@brusnika.ru</VendorDescription>
+  </AddIn>
+</RevitAddIns>
